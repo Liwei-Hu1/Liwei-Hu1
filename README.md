@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Liwei Hu**
+# 👋 Hi, I'm **Liwei Hu (胡立伟)**
 
 🎓 **PhD Student @ Imperial College London**  
 🧠 **Medical AI · Computer Vision · Deep Learning**
